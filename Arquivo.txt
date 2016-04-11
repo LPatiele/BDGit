@@ -1,0 +1,5 @@
+1-Item A-10-2.90-un
+2-Item B-10-3.80-un
+3-Item C-10-1.99-un
+4-Item D-1.50-ub
+5-Item E-10-0.50-lts
